@@ -20,9 +20,9 @@ const ProposalHeader = () => {
             className='h-16 object-contain'
           />
           <img
-            src={boortmaltLogo}
+            src={'https://www.boortmalt.com/sites/default/files/logo.png'}
             alt='BoortMalt'
-            className='h-16 object-contain'
+            className='h-16 w-20 object-contain'
           />
         </div>
 
