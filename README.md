@@ -1,6 +1,6 @@
-# Propuesta Comercial para BoortMalt
+# Propuesta Comercial
 
-Este repositorio contiene una propuesta comercial desarrollada para nuestro cliente, BoortMalt. La propuesta detalla una solución técnica para el monitoreo y control de silos utilizando tecnología IoT, diseñada para optimizar la gestión de calidad del grano.
+Este repositorio contiene una propuesta comercial desarrollada para nuestro cliente. La propuesta detalla una solución técnica para el monitoreo y control de silos utilizando tecnología IoT, diseñada para optimizar la gestión de calidad del grano.
 
 ## Descripción del Proyecto
 
@@ -14,4 +14,4 @@ La solución presentada en esta propuesta ha sido desarrollada utilizando la pla
 - shadcn-ui
 - Tailwind CSS
 
-Este conjunto de tecnologías nos permite ofrecer una solución moderna, rápida y altamente personalizable para satisfacer las necesidades específicas de BoortMalt.
+Este conjunto de tecnologías nos permite ofrecer una solución moderna, rápida y altamente personalizable para satisfacer las necesidades específicas de nuestro cliente.
